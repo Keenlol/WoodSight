@@ -1,6 +1,6 @@
+<img src="[/path/to/img.jpg](https://github.com/Keenlol/WoodTextureClassification/blob/7d60707c51ad403055e6d3e7f3eae542cd23dc2c/banner_graphic.png)">
 # **Wood Texture Classification**
 Wood texture classification model with fastai, using images scrapped from google.
-https://github.com/Keenlol/WoodTextureClassification/blob/7d60707c51ad403055e6d3e7f3eae542cd23dc2c/banner_graphic.png
 ### **Medium blog : (wip)**
 ### **Demo : https://huggingface.co/spaces/Keenlol/Wood_Texture_Classification**
 
